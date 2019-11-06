@@ -230,10 +230,10 @@ h2{
         transition:all 500ms ease; /* Establecemos una transición a todas las propiedades */
     }
 
-    .social ul li .icon-facebook {background:#000;} /* Establecemos los colores de cada red social, aprovechando su class */
+    .social ul li .icon-facebook {background:#fff;} /* Establecemos los colores de cada red social, aprovechando su class */
     .social ul li .icon-twitter {background: #fff;}
     .social ul li .icon-instagram {background: #fff;}
-    .social ul li .icon-correo {background: #000;}
+    .social ul li .icon-correo {background: #fff;}
 
     .social ul li a:hover {
         background: #000; /* Cambiamos el fondo cuando el usuario pase el mouse */
