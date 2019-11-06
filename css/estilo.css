@@ -8,7 +8,7 @@ button.boton {
     border-radius: 3px;
     width: 100px;
     height: 30px;
-    Color:#106fd3;
+    Color:#FFF;
     font-weight:bold;
     text-align:center;
     cursor:pointer;
@@ -16,7 +16,7 @@ button.boton {
 
 
 body{
-	font-size: 100%;
+	font-size: 50%;
 	font-family: 'Lato', sans-serif;
 	background: #fff;
 }
